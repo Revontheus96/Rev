@@ -9,7 +9,6 @@
 </head>
 
 <!--Navbar-->
-<div class="container">
 <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
   <a class="navbar-brand" href="#home">Biodata</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
@@ -24,9 +23,7 @@
         <a class="nav-link" href="#contact">Contact</a>
       </li>
       </li>
-    </ul>
-  </div>
-  
+    </ul> 
 </nav>
 
 <!--BIODATA-->
