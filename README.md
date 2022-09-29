@@ -5,8 +5,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Biodata Diri</title>
 	<link rel="stylesheet" type="text/css" href="style.css">
-	
-	</head>
+</head>
 
 <!--Navbar-->
 <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
